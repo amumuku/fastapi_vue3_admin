@@ -2,7 +2,7 @@
 
 # 设置全局变量
 PROJECT_NAME="fastapi_vue3_admin"
-WORK_DIR="/root"
+WORK_DIR="/root/river-dev"
 GIT_REPO="https://github.com/amumuku/fastapi_vue3_admin.git"
 
 # 打印带时间戳的日志
