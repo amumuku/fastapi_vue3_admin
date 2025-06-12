@@ -20,4 +20,4 @@ RUN pip install --no-cache-dir -r requirements.txt -i https://pypi.tuna.tsinghua
 CMD ["python", "main.py", "run", "--env=prod"]
 
 # 暴露端口
-EXPOSE 8001
+EXPOSE 8081
